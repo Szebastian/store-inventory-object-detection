@@ -22,7 +22,7 @@ We utilize the **SKU110K dataset** for training and evaluation, characterized by
 ---
 
 ## 🛠️ Technologies and Tools
-* **Computer Vision:** YOLO (v5/v8), Deep Learning, Object Detection.
+* **Computer Vision:** YOLO (v5/v8/v11/v26), Deep Learning, Object Detection.
 * **Frameworks:** PyTorch / TensorFlow.
 * **Deployment:** FastAPI, Docker, HTTP APIs.
 * **Data Science:** Pandas, OpenCV, Matplotlib (EDA).
