@@ -42,6 +42,7 @@ We utilize the **SKU110K dataset** for training and evaluation, characterized by
 ## 👥 The Team
 * **Sebastian Contreras** - *Team Leader*
 * **Nahim Gomez**
+* **Rodrigo Chani**
 * **Bruno Ruiz**
 * **Rosario Ancco Peralta**
 * **Daniel Valiente**
